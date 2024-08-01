@@ -17,7 +17,6 @@ The code written in pytorch, and their corresponding configurations are as follo
 
 ## Introduction<br>
 
-### YOLO-JD<br>
 Plant diseases and pests are a global threat to crop yields, and they may be even more destructive for smallholder farmers whose livelihoods depend heavily on healthy harvests.  In this scenario, early and precise detection of plant diseases and pests is critical for avoiding losses in agricultural production. Recently, disease prevention in jute plants has become an urgent topic as a result of the growing demand for finer quality fiber.<br><br>
 This research presents a deep-learning network called YOLO-JD for detecting jute diseases from images. In the main architecture of YOLO-JD, we integrated three new modules such as Sand Clock Feature Extraction Module (SCFEM), Deep Sand ClockFeature Extraction Module (DSCFEM), and Spatial Pyramid Pooling Module (SPPM) to extract image features effectively. We also built a new large-scale image dataset for jute diseases and pests with ten classes.<br>
 ***<p align="center">Architecture of YOLO-JD***<br><br>
