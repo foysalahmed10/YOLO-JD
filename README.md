@@ -41,7 +41,7 @@ The images of jute diseases and pests were collected in Jamalpur and Narail dist
 
 ### Data_preprocessing<br>
 Raw data needs to be preprocessed before it can be fed into networks for training or testing.<br>
- First, we apply image pre-processing methods such as brightness correction and image filtering on sample images to enhance the quality of the dataset. In the dataset, 556 images were selected to form the testing dataset, and the rest of the 3862 images were used to form the training set. Then, an annotation software called ‘LabelImg’ was used to draw the ground truth bounding boxes of the disease or pests in all images.<br>
+First, we apply image pre-processing methods such as brightness correction and image filtering on sample images to enhance the quality of the dataset. In the dataset, 556 images were selected to form the testing dataset, and the rest of the 3862 images were used to form the training set. Then, an annotation software called ‘LabelImg’ was used to draw the ground truth bounding boxes of the disease or pests in all images.<br>
 
 ## Citation<br>
 Please consider citing our papers if the project helps your research with the following BibTex:
