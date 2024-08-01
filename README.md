@@ -31,7 +31,14 @@ This project contains four main folders<br>
 folder [**Original_Dataset**] contains the raw plant 3D data used in the paper, and the dataset is represented in txt files<br>
 folder [**Data_preprocessing**] contains the code for converting the raw dataset into the h5 format for network training and testing<br>
 folder [**PlantNet**] contains the TensorFlow and Pytorch code of PlantNet<br>
-folder [**PSegNet**]  contains the TensorFlow and Pytorch code of PSegNet<br>
+folder [**PSegNet**]  contains the TensorFlow and Pytorch code of PSegNet<be>
+
+```bash
+git clone https://github.com/ultralytics/yolov5  # clone
+cd yolov5
+pip install -r requirements.txt  # install
+```
+
 
 ### Original_Dataset<br>
 The images of jute diseases and pests were collected in Jamalpur and Narail districts in Bangladesh in July 2021. To diversify the dataset, the images were captured over the course of a single day under both sunny and cloudy weather. The images were captured by a Canon Powershot G16 camera and the camera of a Samsung Galaxy S10 with different viewing angles and different distances (0.3–0.5 m). In total, 4418 images in multiple jute disease and pest classes were obtained. The light intensity and background circumstances of the images vary greatly in the dataset. Though the image sizes are not uniform in our dataset, we prepare a normalization step at the beginning of the network to unify all images to a fixed resolution of 640 × 640. Eight common diseases including stem rot, anthracnose, black band, soft rot, tip blight, dieback, jute mosaic, and jute chlorosis, as well as two pests—Jute Hairy Caterpillar, and Comophila sabulifers—are incorporated into our dataset.<br><br>
