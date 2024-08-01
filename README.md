@@ -34,7 +34,7 @@ folder [**PlantNet**] contains the TensorFlow and Pytorch code of PlantNet<br>
 folder [**PSegNet**]  contains the TensorFlow and Pytorch code of PSegNet<be>
 
 ```bash
-git clone [https://github.com/foysalahmed10/YOLO-JD.git] # clone
+git clone https://github.com/foysalahmed10/YOLO-JD.git # clone
 cd YOLO-JD-master
 pip install -r requirements.txt  # install
 ```
