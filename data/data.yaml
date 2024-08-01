@@ -1,0 +1,6 @@
+train: training data path
+
+val: validation data path
+
+nc: number of class
+names: ['Class name']
