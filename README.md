@@ -43,7 +43,7 @@ Raw data needs to be preprocessed before it can be fed into networks for trainin
 First, we apply image pre-processing methods such as brightness correction and image filtering on sample images to enhance the quality of the dataset. In the dataset, 556 images were selected to form the testing dataset, and the rest of the 3862 images were used to form the training set. Then, an annotation software called ‘LabelImg’ was used to draw the ground truth bounding boxes of the disease or pests in all images.<be>
 
 ## Acknowledgement
-Part of our code was descended and modified from the open-source code by ultralytics. Their original code can be found at: [ [https://github.com/ultralytics/yolov5.git].
+Part of our code was descended and modified from the open-source code by ultralytics. Their original code can be found at: [https://github.com/ultralytics/yolov5.git].
 
 
 ## Citation<br>
