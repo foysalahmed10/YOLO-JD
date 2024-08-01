@@ -27,11 +27,6 @@ This research presents a deep-learning network called YOLO-JD for detecting jute
 <img src="images/3.png" width="90%" height="90%"><br><br>
 
 ## Quick Start<br>
-This project contains four main folders<br>
-folder [**Original_Dataset**] contains the raw plant 3D data used in the paper, and the dataset is represented in txt files<br>
-folder [**Data_preprocessing**] contains the code for converting the raw dataset into the h5 format for network training and testing<br>
-folder [**PlantNet**] contains the TensorFlow and Pytorch code of PlantNet<br>
-folder [**PSegNet**]  contains the TensorFlow and Pytorch code of PSegNet<be>
 
 ```bash
 git clone https://github.com/foysalahmed10/YOLO-JD.git # clone
