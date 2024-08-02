@@ -13,7 +13,6 @@ The code written in pytorch, and their corresponding configurations are as follo
 * All deep networks run under Ubuntu 18.04
   * Python >=3.7
   * Pytorch >=1.8.0 
-  * CUDA == 11.8
 
 ## Introduction<br>
 
