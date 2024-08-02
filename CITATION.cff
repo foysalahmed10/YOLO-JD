@@ -1,14 +1,11 @@
-cff-version: 1.2.0
-preferred-citation:
-  type: software
-  message: If you use YOLOv5, please cite it as below.
-  authors:
-  - family-names: Jocher
-    given-names: Glenn
-    orcid: "https://orcid.org/0000-0001-5950-6979"
-  title: "YOLOv5 by Ultralytics"
-  version: 7.0
-  doi: 10.5281/zenodo.3908559
-  date-released: 2020-5-29
-  license: AGPL-3.0
-  url: "https://github.com/ultralytics/yolov5"
+@article{li2022plantnet,
+  title={YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images},
+  author={Li, Dawei and Ahmed, Foysal and Wu, Nailong and Sethi, A.Ishrat},
+  journal={Plants},
+  volume={11(7)},
+  pages={937},
+  year={2022},
+  publisher={MDPI}
+  issn = {2223-7747},
+  doi = {https://doi.org/10.3390/plants11070937}
+}
