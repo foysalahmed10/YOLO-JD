@@ -42,6 +42,9 @@ The images of jute diseases and pests were collected in Jamalpur and Narail dist
 ### Data_preprocessing<br>
 Raw data needs to be preprocessed before it can be fed into networks for training or testing. First, we apply image pre-processing methods such as brightness correction and image filtering on sample images to enhance the quality of the dataset. Then, an annotation software called ‘LabelImg’ was used to draw the ground truth bounding boxes of the disease or pests in all images.<be>
 
+### Data_Download<br>
+Visit this link to download the dataset: https://1drv.ms/u/s!Al1NYDOSIj467ysFMpzJWJc7fEtc?e=FIU6bX
+
 ## Acknowledgement
 Part of our code was descended and modified from the open-source code by ultralytics. Their original code can be found at: [https://github.com/ultralytics/yolov5.git].
 
